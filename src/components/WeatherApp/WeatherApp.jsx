@@ -76,7 +76,7 @@ const WeatherApp = () => {
       <div className="top-bar d-flex justify-content-center align-items-center gap-4 pt-4 ">
         <input
           type="text"
-          placeholder="Search"
+          placeholder="Search by city name"
           className="cityInput w-50 text-secondary border border-none rounded-pill ps-3 fs-3"
           id="input"
         />
