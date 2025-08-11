@@ -4,6 +4,12 @@
 
 A simple and responsive **Weather App** built with **React.js** and **Bootstrap**, powered by a weather API (such as [OpenWeatherMap](https://openweathermap.org/api)) to display real-time weather information for any city in the world.
 
+## 🚀 Live Demo
+
+🔗 [View Live Site](https://weather-app-tajul.netlify.app/)
+
+
+
 ## Features
 
 - Search weather by city name
